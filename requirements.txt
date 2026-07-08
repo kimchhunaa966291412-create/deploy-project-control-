@@ -1,0 +1,7 @@
+cd khmercrop-ai
+git init
+git add .
+git commit -m "Add streamlit_app.py wrapper"
+git branch -M main
+git remote add origin https://github.com/<your-username>/<repo-name>.git
+git push -u origin main
